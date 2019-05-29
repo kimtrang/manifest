@@ -47,7 +47,7 @@
   <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++ -->
   <!-- Couchbase-owned mobile testkit                     -->
   <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-  <project name="mobile-testkit" remote="couchbaselabs-priv" revision="e52841bc7f36044ca5048b6295f69d1b8374d191" groups="notdefault"/>
+  <project name="mobile-testkit" remote="couchbaselabs-priv" revision="master" groups="notdefault"/>
 
   <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++ -->
   <!-- Build support - build scripts, readme, etc.                -->
