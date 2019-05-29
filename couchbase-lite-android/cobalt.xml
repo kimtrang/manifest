@@ -4,6 +4,7 @@
   <remote name="couchbase" fetch="git://github.com/couchbase/" review="review.couchbase.org"/>
   <remote name="couchbaselabs-priv" fetch="ssh://git@github.com/couchbaselabs/" review="review.couchbase.org"/>
   <remote name="couchbaselabs" fetch="git://github.com/couchbaselabs/" review="review.couchbase.org"/>
+  <remote name="kim" fetch="git://github.com/kimtrang/"/>
   <remote name="couchbasedeps" fetch="git://github.com/couchbasedeps/"/>
   <remote name="arangodb" fetch="git://github.com/arangodb/"/>
   <remote name="snej" fetch="git://github.com/snej/"/>
@@ -48,7 +49,7 @@
   <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++ -->
   <!-- Couchbase-owned mobile testkit                     -->
   <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-  <project name="mobile-testkit" remote="couchbaselabs-priv" revision="master" groups="notdefault"/>
+  <project name="mobile-testkit" remote="kim" revision="master" groups="notdefault"/>
 
   <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++ -->
   <!-- Build support - build scripts, etc.                -->
